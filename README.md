@@ -1,8 +1,11 @@
-<h2>Hi, I'm Arvind M! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
-<img src="https://dc85enhu9zukf.cloudfront.net/gifs/MU56lYT1Ov07fVTsnM.gif" width="500" />
-  
+<h2>Hi, I'm Arvind M!  :wave:</h2>
+
 I like to learn, make and break stuff.
 <br />
+
+<img src="https://dc85enhu9zukf.cloudfront.net/gifs/MU56lYT1Ov07fVTsnM.gif" width="400" />
+  
+
 
 
 <details>
