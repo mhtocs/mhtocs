@@ -3,6 +3,7 @@
 - 🌱 I am currently learning about search engines & databases
 - 📚 I'm reading [ddia](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf), [raft](https://raft.github.io/) & [abadi](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf),
 - 🛠️ I want to build a highly scalable database & search-engine for machine generated logs
+- ❤️ I love listening to [lofi](https://www.youtube.com/watch?v=5qap5aO4i9A) & playing [galaga](https://en.wikipedia.org/wiki/Galaga)
 - 🍰 Ask me about java, python, flask, elasticsearch, lucene & reactjs 
 - 📫 Feel free to reach out to me at mhtocs@gmail.com to talk about anything
 <!-- - ✏️ I write [here]() sometimes -->
