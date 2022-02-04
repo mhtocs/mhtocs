@@ -4,7 +4,8 @@
 - 📚 I'm reading [ddia](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf), [raft](https://raft.github.io/) & [abadi](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf),
 - 🛠️ I want to build a highly scalable database & search-engine for machine generated logs
 - 🍰 Ask me about java, python, flask, elasticsearch, lucene & reactjs 
-- ☕️ Feel free to reach out to me at mhtocs@gmail.com to talk about anything
+- 📫 Feel free to reach out to me at mhtocs@gmail.com to talk about anything
+<!-- - ✏️ I write [here]() sometimes -->
 
 **Languages and Tools:**  
 
