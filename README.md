@@ -9,6 +9,9 @@ I am Arvind M, a Software Engineer from Assam, India. Currently working at [Zoho
 - 📫 Feel free to reach out to me at mhtocs@gmail.com
 <!-- - ✏️ I write [here]() sometimes -->
 
+![alt](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)
+
+
 **Languages and Tools:**  
 
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
