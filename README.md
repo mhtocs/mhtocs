@@ -1,11 +1,12 @@
-### Hi, I'm Arvind M!  :wave:
+### Hi!  :wave:😍
 
-- 🌱 I am currently learning about search engines & databases
+I am Arvind M, a Software Engineer from Assam, India. Currently working at [ZohoCorp](https://www.zohocorp.com/).
+
+- 🌱 I am currently learning about search engines, databases & system design (help needed)
 - 📚 I'm reading [ddia](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf), [raft](https://raft.github.io/) & [abadi](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf),
 - 🛠️ I want to build a highly scalable database & search-engine for machine generated logs
-- ❤️ I love listening to [lofi](https://www.youtube.com/watch?v=5qap5aO4i9A) & playing [galaga](https://en.wikipedia.org/wiki/Galaga)
-- 🍰 Ask me about java, python, flask, elasticsearch, lucene & reactjs 
-- 📫 Feel free to reach out to me at mhtocs@gmail.com to talk about anything
+- 🍰 Ask me about java, python, flask, elasticsearch & reactjs or just anything
+- 📫 Feel free to reach out to me at mhtocs@gmail.com
 <!-- - ✏️ I write [here]() sometimes -->
 
 **Languages and Tools:**  
@@ -13,12 +14,14 @@
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/d106aa3f6fa091ab80ab5c8cf0d931baff3caaea/topics/elixir/elixir.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png"></code>
 
 
 <br />
