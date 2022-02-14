@@ -4,14 +4,19 @@ I'm Arvind M., a software engineer from Assam, India. I love building and learni
 My day job involves working with Java and Elasticsearch, while in my spare time I play around with Python, Flask, JavaScript, React and Figma
 
 ### Currently 🏂
+- 🧶 I am building **multiple-meetings-creator**, a webapp to setup multiple meetings using spreadsheet 
+- 🎵 I am also building **lofi-radio**, a music streaming service; to learn elixir
 - 🌱 I am learning about search engines, databases & system design (help needed)
 - 🍀 I am also trying to learn rust & elixir
-- 📚 I'm reading [ddia](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf), [raft](https://raft.github.io/) & [abadi](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf),
-- 🛠️ Someday I want to build a highly scalable database & search-engine for machine generated logs
-- 🍰 Ask me about DSA, Backend Engineering and about any of the languages & tool that I use.
+- 📚 I'm reading [ddia](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf), [raft](https://raft.github.io/) & [abadi](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf)
+
+### Someday 🔮
+- 🛠️ I want to build a highly scalable database & search-engine for machine generated logs
 
 ### Contact 📫
-- Reach me at mhtocs@gmail.com
+- 🙋 Ask me about DSA, Backend Engineering and about any of the languages & tool that I use.
+- 📮 Reach me at mhtocs@gmail.com
+
 <!-- - ✏️ I write [here]() sometimes -->
 
 ![alt](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)
