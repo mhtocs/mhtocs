@@ -3,7 +3,7 @@
 I'm Arvind M., a software engineer from Assam, India. I love building and learning new things, especially when they involve programming, system design and visualizations. 
 My `${DAY_JOB}` involves working with Java and Elasticsearch, while in my spare time I play around with Python, Flask, JavaScript, React and Figma.
 
-I also try contribute to opensource projects. Checkout some of my [projects](https://github.com/mhtocs?tab=repositories) here.
+I try to contribute to opensource projects. Checkout some of my [projects](https://github.com/mhtocs?tab=repositories) here.
 
 ### Currently 🏂
 - 🧶 I am building **multiple-meetings-creator**, a webapp to setup multiple meetings using spreadsheet 
