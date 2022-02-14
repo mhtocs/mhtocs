@@ -6,8 +6,8 @@ My `${DAY_JOB}` involves working with Java and Elasticsearch, while in my spare 
 I try to contribute to opensource projects. Checkout some of my [projects](https://github.com/mhtocs?tab=repositories) here.
 
 ### Currently 🏂
-- 🧶 I am building **multiple-meetings-creator**, a webapp to setup multiple meetings using spreadsheet data 
-- 🎵 I am also building **lofi-radio**, a music streaming service; to learn elixir
+- 🧶 I am building [**multiple-meetings-creator**](https://github.com/mhtocs/multiple-meetings-creator), a webapp to setup multiple meetings using spreadsheet data 
+- 🎵 I am also building [**lofi-radio**](https://github.com/mhtocs/lofi_radio), a music streaming service; to learn elixir
 - 🌱 I am learning about search engines, databases & system design (help needed)
 - 🍀 I am also trying to learn rust & elixir
 - 📚 I'm reading [ddia](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf), [raft](https://raft.github.io/) & [abadi](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf)
