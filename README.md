@@ -1,10 +1,11 @@
-### Hi! :wave:😍
+### Hi! :wave:
 
-I am Arvind M, a Software Engineer from Assam, India. Currently working at [ZohoCorp](https://www.zohocorp.com/).
+I'm Arvind M., a software engineer from Assam, India. I love building and learning new things, especially when they involve programming, system design and visualizations. My day job involves working with Java and Elasticsearch, while in my spare time I play around with Python, Flask, JavaScript, React and Figma
 
 - 🌱 I am currently learning about search engines, databases & system design (help needed)
+- 🍀 I am also trying to learn rust & elixir
 - 📚 I'm reading [ddia](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf), [raft](https://raft.github.io/) & [abadi](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf),
-- 🛠️ I want to build a highly scalable database & search-engine for machine generated logs
+- 🛠️ Someday I want to build a highly scalable database & search-engine for machine generated logs
 - 🍰 Ask me about DSA, Backend Engineering and about any of the languages & tool that I use.
 - 📫 Feel free to reach out to me at mhtocs@gmail.com
 <!-- - ✏️ I write [here]() sometimes -->
