@@ -7,7 +7,7 @@ Checkout some of my [**projects**](https://github.com/mhtocs?tab=repositories) h
 
 ### Currently 🏂
 - 🧶 I am building [**multiple-meetings-creator**](https://github.com/mhtocs/multiple-meetings-creator), a webapp to setup multiple meetings using spreadsheet data 
-- 🎵 I am also building [**lofi-radio**](https://github.com/mhtocs/lofi_radio), a music streaming service; to learn elixir
+- 🎵 I am also building [**lofi-radio**](https://github.com/mhtocs/lofi_radio), a music streaming service;
 - 🌱 I am learning about search engines, databases & system design (help needed)
 - 🍀 I am also trying to learn rust & elixir
 - 📚 I'm reading [**ddia**](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf), [**raft**](https://raft.github.io/) & [**abadi**](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf)
