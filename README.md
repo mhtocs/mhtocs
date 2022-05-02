@@ -16,7 +16,7 @@ Checkout some of my [**projects**](https://github.com/mhtocs?tab=repositories) h
 - 🛠️ I want to build a highly scalable database & search-engine for machine generated logs
 
 ### Contact 📫
-- 🙋 Ask me about DSA, Backend Engineering and about any of the languages & tool that I use.
+- 🙋 Ask me about DSA, Backend Engineering or about any of the languages & tool that I use.
 - 📮 Reach me at **mhtocs@gmail.com**
 
 <!-- - ✏️ I write [here]() sometimes -->
